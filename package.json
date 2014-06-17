@@ -1,0 +1,11 @@
+{
+  "name": "true_wind",
+  "version": "0.0.1",
+  "description": "True wind speed and angle calculator",
+  "main": "index.js.js",
+  "keywords": [
+    "sailing"
+  ],
+  "author": "Tony Bentley",
+  "license": "ISC"
+}
